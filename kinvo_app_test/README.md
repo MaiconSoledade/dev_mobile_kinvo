@@ -1,8 +1,8 @@
 # <p align="center"> Kinvo App Test 
 
 <p align="center">
-<a href="https://media1.giphy.com/media/URNLEmGCelytIKh5QN/giphy.gif"><img src="https://img.icons8.com/android/24/000000/linkedin.png" alt="linkedin"></a>
-<a href="https://media1.giphy.com/media/URNLEmGCelytIKh5QN/giphy.gif"><img src="https://img.icons8.com/android/24/000000/instagram.png" alt="instagram"></a>
+<a href="https://www.linkedin.com/in/maicon-douglas-85aa82197"><img src="https://img.icons8.com/android/24/000000/linkedin.png" alt="linkedin"></a>
+<a href="https://www.instagram.com/maiconsoledade/"><img src="https://img.icons8.com/android/24/000000/instagram.png" alt="instagram"></a>
 </p>
 
 
