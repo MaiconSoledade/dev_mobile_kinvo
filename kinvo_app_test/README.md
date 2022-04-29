@@ -6,7 +6,7 @@
 </p>
 
 
-Aplicativo desenvolvido para teste de uma vaga de desenvolvedor mobile na Kinvo
+Aplicativo desenvolvido para teste de uma vaga de desenvolvedor mobile na Kinvo.
 ## Tecnologias Utilizadas
 - Dart
 - Flutter
